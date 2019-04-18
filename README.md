@@ -1,2 +1,3 @@
 # find_code
-为了测试
+直接调用方法：tiqu(string)
+
