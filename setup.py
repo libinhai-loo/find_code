@@ -4,18 +4,18 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='<项目的名称>',
+    name='<寻找地区码>',
     version='<version:1.0>',
     description=(
-        '<项目的简单描述>'
+        '<从一个乱的字符串中提取地区码>'
     ),
     long_description=open('README.rst').read(),
-    author='<你的名字>',
-    author_email='<你的邮件地址>',
-    maintainer='<维护人员的名字>',
-    maintainer_email='<维护人员的邮件地址',
+    author='<loo>',
+    author_email='<1213788433@qq.com>',
+    maintainer='<loo>',
+    maintainer_email='<1213788433@qq.com',
     license='BSD License',
-    packages=find_packages(),
+    packages=find_code(),
     platforms=["all"],
     url='<项目的网址，我一般都是github的url>',
     classifiers=[
